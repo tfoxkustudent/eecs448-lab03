@@ -1,0 +1,12 @@
+p.chiefs:hover
+{
+    background-color: red;
+    color: yellow;
+    font-family: arial
+    font-size: 26pt;
+}
+
+body
+{
+    background-color: red;
+}
