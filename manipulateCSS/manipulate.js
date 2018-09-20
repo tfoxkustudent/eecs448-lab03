@@ -8,7 +8,7 @@ function colors()
   let F = document.getElementById('bgg');
   let G = document.getElementById('bgb');
 
-  let p = document.getElementById('p1');
-  p.style.backgroundColor = rgb(E,F,G);
+  let P = document.getElementById('p1');
+  P.style.backgroundColor = "rgb(E, F, G)";
 
 }
