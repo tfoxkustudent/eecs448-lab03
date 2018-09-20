@@ -5,6 +5,13 @@ p.chiefs:hover
     font-family: arial
     font-size: 26pt;
 }
+a:hover
+{
+    background-color: red;
+    color: yellow;
+    font-family: arial
+    font-size: 26pt;
+}
 
 body
 {
